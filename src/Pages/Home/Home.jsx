@@ -7,8 +7,6 @@ const Home = () => {
 
     const data = useLoaderData()
 
-    console.log(data);
-
     return (
         <div className='py-6'>
             <Banner></Banner>
